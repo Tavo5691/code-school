@@ -2,10 +2,10 @@
 
 ## Modulos
 
-#### [Modulo 1 (HTML, CSS y Javascript)](./modulo-1.md)
-#### Modulo 2
-#### Modulo 3
-#### Modulo 4
+* [Modulo 1 (HTML, CSS y Javascript)](./modulo-1.md)
+* Modulo 2
+* Modulo 3
+* Modulo 4
 
 ## Notas
 
