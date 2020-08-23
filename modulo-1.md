@@ -27,3 +27,13 @@
 :clapper: 05. [Modulo 1 Tabla de Precios](https://www.youtube.com/playlist?list=PLGVPqDjkDrDnrcwNc2_d8pxnmq7G3G-s3)
 
 :computer: 06. FCC: Basic CSS (Change the Color of Text - Use Clockwise Notation to Specify the Margin of an Element)
+
+:clapper: 07. [Curso de Programación Básica](https://platzi.com/cursos/programacion-basica/) (Empieza por acá - Primer proyecto: Peso en otro planeta)
+
+:beginner: [Las buenas empresas no te van a pedir un título o diploma](https://www.youtube.com/watch?v=YZ7Ml5wc52I)
+
+:clapper: 08. [Modulo 1 CSS-2](https://www.youtube.com/playlist?list=PLGVPqDjkDrDn_hHRuputcBggWF0PRDlMS)
+
+:computer: 09. FCC: Basic CSS (Use Attribute Selectors to Style Elements - Use a media query to change a variable)
+
+:clapper: 10. [Curso de Programación Básica](https://platzi.com/cursos/programacion-basica/) (Segundo proyecto: Dibujando con Canvas)
