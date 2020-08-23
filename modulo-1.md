@@ -18,7 +18,7 @@
 
 :clapper: 01. [Modulo 1 HTML](https://www.youtube.com/playlist?list=PLGVPqDjkDrDlxjYIpMA6iSdPB26_Fshn3)
 
-:computer: 02. FCC: Basic HTML and HTML5 (Say Hello to HTML Elements - Define the Head and Body of an HTML Document)
+:computer: 02. FCC: Basic HTML and HTML5
 
 :clapper: 03. [Modulo 1 CSS](https://www.youtube.com/playlist?list=PLGVPqDjkDrDlJcYmx9__QakoxoGa40es4)
 <br>
