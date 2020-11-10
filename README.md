@@ -1,5 +1,7 @@
 # Code School
 
+<code>This repository is a collection of different resources (in Spanish) in a sort of "reading order" to help anyone who wants to learn how to code. So far, +20 people (mostly friends and family) are following this guide and starting their journey into programming.</code>
+
 ## Modulos
 
 * [Modulo 1 (HTML, CSS y Javascript)](./modulo-1.md)
